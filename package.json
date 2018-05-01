@@ -1,0 +1,22 @@
+{
+  "name": "node.js-practice",
+  "version": "1.0.0",
+  "description": "first node.js project!",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "bot",
+    "twitter",
+    "test"
+  ],
+  "author": "Jennifer Messer",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
